@@ -1,8 +1,1 @@
-{
-  "name": "stm-bot",
-  "version": "1.0.0",
-  "main": "index.js",
-  "dependencies": {
-    "discord.js": "^14.0.0"
-  }
-}# -STM-Tribunal-Militar
+# -STM-Tribunal-Militar
